@@ -1,0 +1,108 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family:tahoma;
+	/*font-size:11px;*/
+	font-weight:normal;
+	color:#000000;
+	}
+td{
+	font-size:12px;
+}
+input{
+	font-family:tahoma;
+	font-size:12px;
+	font-weight:normal;
+	color:#000000;
+}
+
+select{
+	font-family:tahoma;
+	font-size:12px;
+	font-weight:normal;
+	color:#000000;
+}
+
+textarea{
+	font-family:tahoma;
+	font-size:12px;
+	font-weight:normal;
+	color:#000000;
+}
+	
+.table-heading{
+	background:#5590DC;
+	font-size:12px;
+	font-weight:normal;
+	color:#FFFFFF;
+	text-decoration:none;
+	vertical-align:middle;
+	padding-left:10px;	
+}
+.table-heading a{
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+.form_name{
+	font-size:14px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;	
+}
+.errmsg{
+	font-size:12px;
+	font-weight:bold;
+	color:#FF0000;
+	text-decoration:none;
+}
+.linked_heading{
+	color:#ffffff;
+	text-decoration:underline;
+	}
+	
+a.linked_heading:hover{
+	color:#ffffff;
+	text-decoration:none;
+	}
+.navmenu{
+	color:#000000;
+}
+.navmenu:hover{
+	color:#666666;
+}
+.light_column{
+	background-color:#F4F4F4;
+}
+.dark_column{
+	background-color:#DDDDDD;
+}
+
+.side-panel {
+	min-height: 900px;
+	height:100%;
+	width: 280px;
+	float: left;
+	
+	background-color: rgba(48, 47, 47, 0.41);
+	margin-left: 0px;
+	padding: 5px;
+	border: 2px solid gray;
+	//margin-top: -5px;
+	 overflow-y:scroll;
+}
+
+.main-panel {
+	min-height: 420px;
+	height:100%;
+	width: 1024px;
+	float: right;
+	//background-color: green;
+	margin-left: 0px;
+	padding: 5px;
+}	
+
+
+
+
+	
+	
